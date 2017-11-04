@@ -1,3 +1,3 @@
 # hello-world
-Myfirstrepository
-Hello im new to github!
+Myfirstbranch 
+Hello! im new to github!
